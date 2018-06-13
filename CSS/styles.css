@@ -1,10 +1,10 @@
 #fons{
-    background-image: url(Media/riubo2.jpg);
+    background-image: url(../Media/riubo2.jpg);
     background-repeat:no-repeat;
     
 }
 #fons2{
-    background-image: url(Media/fonspantalla.jpg);
+    background-image: url(../Media/fonspantalla.jpg);
     background-repeat:no-repeat;
 }
 
